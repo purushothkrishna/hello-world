@@ -1,0 +1,9 @@
+Hello World. I'm just learning to use Jenkins Continuous integration with Git hub remote respository when changes are made with commit in
+Local. Local
+
+
+
+Good Bye ;) !8
+
+
+ Let's say to Hello World 
